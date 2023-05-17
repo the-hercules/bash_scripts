@@ -10,3 +10,6 @@ This is going to be a repository with useful automations in setting up your linu
  
  Note that this is SF-Pro Font it is not a **monospace font**.
  
+### 2. Script to Intall SF-Mono font.
+
+This font is **monospaced**, so it can be used with IDEs and Terminals.
